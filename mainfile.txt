@@ -1,5 +1,6 @@
 INI ADALAH MAIN TEKSNYA
 ini tambahan di main
 
+ini adalah fitur numbering
+1.
 ini tambahan fitur list :
-
